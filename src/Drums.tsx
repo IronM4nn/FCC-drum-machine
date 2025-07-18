@@ -1,4 +1,3 @@
-import type { AudioClip } from './types'
  
 interface DrumProps{
   audioClip: AudioClip;
